@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+<title>Olusegun Alade</title>
+<style>
+body{
+  text-align:center;
+  background: url(https://i.imgur.com/zOOhkYj.jpg);
+  color: white;
+  background-size: cover;
+  background-position:center;
+  font-family: Arial;
+}
+img{
+  border-radius:10000px;
+  max-width: 180px;
+  height: auto;
+}
+p{
+  font-size:16px;
+}
+h1{
+  font-size:18px;
+}
+input{
+  border:0px;
+  padding:11px;
+  font-size:16px;
+}
+input[type="submit"]{
+  background:black;
+  color:white;
+}
+</style>
+</head>
+<body>
+<img src="https://i.imgur.com/CjShXV6.jpg">
+<h1>Olusegun Alade</h1>
+<p>Hi! I'm Olusegun Alade, an aspiring web developer</p>
+<br>
+<br>
+<p>Would you like to receive updates from us?</p>
+<input type"email" placeholder="Enter your email address">
+<input type="submit">
+</body>
+<!--link to my first project is http://dash.ga.co/Olusegun59/build-your-own-personal-website -->
